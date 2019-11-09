@@ -1,6 +1,6 @@
 // replace these values with those generated in your TokBox Account
-var apiKey = "46251422";
-var sessionId = "2_MX40NjI1MTQyMn5-MTU2NTY5NTk0MjI0NH42ejBVdFR4S00zRzdRR3ZaL0M0YU9ObGl-UH4";
+var apiKey = "46455282";
+var sessionId = "92b0e7cec90e958acd3f130c26c6103b97374e1a";
 var token = "T1==cGFydG5lcl9pZD00NjI1MTQyMiZzaWc9NGQ3NzVlODFlN2U1YTJmMTZjZTU5MDliY2FlMWRhNzc3ZjQ2MTgzZDpzZXNzaW9uX2lkPTJfTVg0ME5qSTFNVFF5TW41LU1UVTJOVFk1TlRrME1qSTBOSDQyZWpCVmRGUjRTMDB6UnpkUlIzWmFMME0wWVU5T2JHbC1VSDQmY3JlYXRlX3RpbWU9MTU2NTY5NjI5OCZub25jZT0wLjQzNDMxMTQ2MzMzMTQ1MTEmcm9sZT1wdWJsaXNoZXImZXhwaXJlX3RpbWU9MTU2ODI4ODI5NSZpbml0aWFsX2xheW91dF9jbGFzc19saXN0PQ==";
 initializeSession();
 // Handling all of our errors here by alerting them
